@@ -1,3 +1,7 @@
+<p align="Center">
+  <img src="assets/banner.png"/>
+</p>
+
 # Reflux
 
 Reflux, a simple windows 11 app for easy audio editing. drop a audio file in any format and edit the bass, vocal presence, audio quality, length, and much more!
