@@ -1,5 +1,5 @@
 <p align="Center">
-  <img src="assets/banner.png"/>
+  <img src="assets/reflux_banner.png"/>
 </p>
 
 # Reflux
