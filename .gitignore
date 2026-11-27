@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.tmp-probe
+
+src-tauri/target
+src-tauri/gen/schemas
+
+.freebuff
+.tools
+.cloud-attachments
+release
